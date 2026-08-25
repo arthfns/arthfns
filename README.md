@@ -6,7 +6,7 @@
  
 ## `01 — HELLO, WORLD.`
  
-### I'm Davi.
+### I'm Arthur.
  
 **Software Engineering student** focused on  
 **front-end development, creative interfaces and technology.**

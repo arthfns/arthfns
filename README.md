@@ -7,7 +7,7 @@
 
 <br>
 
-# 01 — HELLO, WORLD.
+# Software Engineering Student • Developer
 
 ### I'm Arthur.
 

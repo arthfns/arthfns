@@ -1,77 +1,49 @@
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:171717&height=180&section=header&text=Arthur%20Dias&fontSize=42&fontColor=FFFFFF&animation=fadeIn"
-  width="100%"
-/>
+# Arthur Dias
+### `Software Engineering Student` • `Developer`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=learning+software+engineering.;building+%2B+front-end+%2B+projects.;turning+design+into+interfaces" />
 
 <br>
 
-# Software Engineering Student • Developer
-
-### I'm Arthur.
-
-Software Engineering student focused on front-end development, creative interfaces and technology.
-
-> building things • breaking things • learning things
-
-<br>
-
-<img
-  src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,git,github&perline=9&theme=dark"
-  alt="Technologies"
-/>
-
-<br><br>
-
----
-
-### 02 — FIND ME
-
-<!-- GitHub -->
 <a href="https://github.com/arthfns">
-  <img
-    src="https://img.shields.io/badge/%3C%2F%3E_GitHub-000000?style=flat-square&logo=github&logoColor=white"
-    alt="GitHub"
-  />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
-<!-- LinkedIn -->
-<a href="www.linkedin.com/in/arthur-dias-86449b3a7">
-  <img
-    src="https://img.shields.io/badge/%E2%86%97_LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<!-- Instagram -->
 <a href="https://www.instagram.com/arth_fns/">
-  <img
-    src="https://img.shields.io/badge/%40_Instagram-000000?style=flat-square&logo=instagram&logoColor=white"
-    alt="Instagram"
-  />
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-
-<!-- Twitch -->
+<a href="https://www.linkedin.com/in/arthur-dias-86449b3a7/?isSelfProfile=true">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 <a href="https://www.twitch.tv/arthfns">
-  <img
-    src="https://img.shields.io/badge/%E2%96%B6_Twitch-000000?style=flat-square&logo=twitch&logoColor=white"
-    alt="Twitch"
-  />
+    <img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=white">
 </a>
 
 <br><br>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,git,github&perline=12" />
+</p>
+
+<br>
+
+</div>
+
 ---
 
-### 03 — CURRENTLY
+## 📊 GitHub Stats
 
-```text
-┌──────────────────────────────────────────┐
-│                                          │
-│  ◉ learning software engineering         │
-│  ◉ building front-end projects           │
-│  ◉ exploring UI / UX                     │
-│  ◉ turning designs into interfaces       │
-│                                          │
-└──────────────────────────────────────────┘
+<div align="center">
+  <img width="400" height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arthfns&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="400" height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arthfns&layout=compact&langs_count=8&theme=react&hide_border=true"/>
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=arthfns&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS">
+</div>
+

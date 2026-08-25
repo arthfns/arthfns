@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:171717&height=180&section=header&text=DAVI%20TOYOTA&fontSize=42&fontColor=FFFFFF&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:171717&height=180&section=header&text=Arthur%20Dias&fontSize=42&fontColor=FFFFFF&animation=fadeIn"
   width="100%"
 />
 

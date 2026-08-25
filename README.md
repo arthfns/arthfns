@@ -57,3 +57,8 @@
 │  ◉ turning designs into interfaces   │
 │                                      │
 └──────────────────────────────────────┘
+
+Git Status
+<p align="center">   <a href="https://github.com/arthfns">    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arthfns&custom_title=Felippe%20T…    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arthfns&layout=compac…  </a> </p>
+ 
+ 

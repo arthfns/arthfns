@@ -1,6 +1,6 @@
 <div align="center">
  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:171717&height=180&section=header&text=ARTHUR%20DIAS&fontSize=42&fontColor=FFFFFF&animation=fadeIn"
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:171717&height=180&section=header&text=Arthur%20Dias&fontSize=42&fontColor=FFFFFF&animation=fadeIn"
   width="100%"/>
  
 <br>
